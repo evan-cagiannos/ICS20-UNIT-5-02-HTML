@@ -1,4 +1,7 @@
-html, body {
-  width: 100%;
-  height: 100%;
+/* Created by: Evan Cagiannos
+   Created on: April 2022
+   This file contains the CSS functions for index.html */
+
+body {
+  text-align: center;
 }
